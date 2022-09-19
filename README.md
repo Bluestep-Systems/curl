@@ -1,4 +1,6 @@
 # curl
-Docker file for adding bash to curlimages/curl
+Docker for running **curl** that added bash.
 
-See https://hub.docker.com/r/curlimages/curl for license information.
+From: curlimages/curl
+
+See https://hub.docker.com/r/curlimages/curl
